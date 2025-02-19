@@ -2,6 +2,7 @@
 Overview
 
 This project automates the processing, enrichment, and visualization of Legal Entity Identifier (LEI) data
+
 Project Structure
 
 GLEIF_LEI_Project/
