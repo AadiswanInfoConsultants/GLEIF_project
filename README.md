@@ -1,13 +1,7 @@
 # GLEIF_project
 Overview
 
-This project automates the processing, enrichment, and visualization of Legal Entity Identifier (LEI) data by:
-
-    Parsing raw XML files containing LEI records.
-    Fetching additional LEI details using the GLEIF API.
-    Merging the local XML data with API data to create a comprehensive dataset.
-    Providing an interactive Streamlit dashboard for exploring LEI data.
-
+This project automates the processing, enrichment, and visualization of Legal Entity Identifier (LEI) data
 Project Structure
 
 GLEIF_LEI_Project/
