@@ -3,17 +3,17 @@ Overview
 
 This project automates the processing, enrichment, and visualization of Legal Entity Identifier (LEI) data
 
-*Project Structure:
+## Project Structure
 
-GLEIF_LEI_Project/
-│── scripts/
-│   ├── parse_and_clean.py        # Parses XML data and cleans it
-│   ├── gleif_api_interaction.py  # Fetches LEI details from the GLEIF API
-│   ├── merge_data.py             # Merges local and API data
-│── output/                       # Stores generated CSV files
-│── master_pipeline.py            # Automates the entire pipeline
-│── app.py                        # Streamlit dashboard for LEI data
-│── README.md                     # Project documentation
+- **GLEIF_LEI_Project/**
+  - 📂 **scripts/**
+    - 📜 `parse_and_clean.py` → Parses XML data and cleans it
+    - 📜 `gleif_api_interaction.py` → Fetches LEI details from the GLEIF API
+    - 📜 `merge_data.py` → Merges local and API data
+  - 📂 **output/** → Stores generated CSV files
+  - 📜 `master_pipeline.py` → Automates the entire pipeline
+  - 📜 `app.py` → Streamlit dashboard for LEI data
+  - 📜 `README.md` → Project documentation
 
 
 Workflow & Explanation
