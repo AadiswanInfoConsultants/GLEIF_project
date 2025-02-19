@@ -16,8 +16,7 @@ This project automates the processing, enrichment, and visualization of Legal En
      - 📜 `README.md` → Project documentation
 
 
-
-Workflow & Explanation
+## 🚀 Workflow & Explanation
 1. Parsing and Cleaning XML Data (parse_and_clean.py)
 
     Reads an XML file containing raw LEI data.
@@ -49,4 +48,3 @@ Workflow & Explanation
     Allows users to search for an LEI and view its details.
     Displays a sample dataset in an interactive UI.
     Marks entries where API data is missing.
-
