@@ -3,7 +3,8 @@ Overview
 
 This project automates the processing, enrichment, and visualization of Legal Entity Identifier (LEI) data
 
-*Project Structure
+*Project Structure:
+
 GLEIF_LEI_Project/
 │── scripts/
 │   ├── parse_and_clean.py        # Parses XML data and cleans it
