@@ -11,9 +11,10 @@ This project automates the processing, enrichment, and visualization of Legal En
     - 📜 `gleif_api_interaction.py` → Fetches LEI details from the GLEIF API
     - 📜 `merge_data.py` → Merges local and API data
    - 📂 **output/** → Stores generated CSV files
-    - 📜 `master_pipeline.py` → Automates the entire pipeline
-    - 📜 `app.py` → Streamlit dashboard for LEI data
-    - 📜 `README.md` → Project documentation
+     - 📜 `master_pipeline.py` → Automates the entire pipeline
+     - 📜 `app.py` → Streamlit dashboard for LEI data
+     - 📜 `README.md` → Project documentation
+
 
 
 Workflow & Explanation
